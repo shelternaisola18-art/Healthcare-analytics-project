@@ -12,4 +12,4 @@ Excel, SQL, Power BI
 - Demand varies by season
 
 ## Dashboard
-(Add screenshot later)
+<img width="1559" height="749" alt="Dashboard jpng" src="https://github.com/user-attachments/assets/24a27f23-93fe-4afe-ad8b-e582a087d3d3" />
